@@ -1,0 +1,17 @@
+.collapsableNavIcon span{
+  height: 0.125em;
+  transition: 0.2s;
+}
+
+
+.navItemList li a {
+  color: #aaa;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.navItemList li a:hover {
+  text-shadow: 0px 0px 2px #abc;
+}
+

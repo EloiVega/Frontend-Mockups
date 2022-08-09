@@ -1,0 +1,13 @@
+.lgSmallMarginRight{
+    margin-right:2%;
+}
+
+.highlighted{
+    height: 40vh;
+}
+
+@media(max-width:976px){
+    .lgSmallMarginRight{
+        margin-right:0%;
+    }
+}
